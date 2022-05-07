@@ -28,6 +28,9 @@ And when I have a URL I want it to print also so I always write it out like this
 
 https://google.com
 
+There is something pretty cool abour github !
+If you press . in your file, it will open a vscode in the browser which makes you work from anywhere !!
+
 * I put references at the bottom
 
     #zettel #notes
